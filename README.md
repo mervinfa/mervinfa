@@ -1,9 +1,9 @@
-# <summary><strong>Hi there :wave: , I'm Mervin!</strong></summary>
+# <summary><strong>Hi!, I'm Mervin Fauzhan Atkly</strong></summary>
 Lifelong Learner, I am currently studying at Dian Nuswantoro University.
 
 ### <summary><strong>Yosh!</strong></summary>
 
-- 🌱 I’m currently learning full-stack web development
+- 🤖 I’m currently learning full-stack web development
 - 📫 How to reach me: <a href="mailto:merpin4060@gmail.com">Email me!</a>
 - ☁️ Pronouns: He/Him. </br>
 - 🎯 Learning and working hard are a part of who I am. </br>
