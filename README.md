@@ -1,7 +1,6 @@
 # <summary><strong>Hi!, I'm Mervin Fauzhan Atkly</strong></summary>
 Lifelong Learner, I am currently studying at Dian Nuswantoro University.
 
-### <summary><strong>Yosh!</strong></summary>
 
 - 🤖 I’m currently learning full-stack web development
 - 📫 How to reach me: <a href="mailto:merpin4060@gmail.com">Email me!</a>
